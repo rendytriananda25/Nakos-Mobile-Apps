@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "flutter-build-responsive-layout": {
+      "source": "flutter/agent-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-build-responsive-layout/SKILL.md",
+      "computedHash": "6d74a9504c4e355c4c62f6fcb6c6dc0df67b56dd6616bea199e4e58f75b7729b"
+    },
+    "flutter-fix-layout-issues": {
+      "source": "flutter/agent-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-fix-layout-issues/SKILL.md",
+      "computedHash": "b2f9789451224e6df8d1d7ac63854c2f1beb30fa35d13ea06fbae9ba2b1b0a7f"
+    },
+    "hyperframes-animation": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/hyperframes-animation/SKILL.md",
+      "computedHash": "2f1efd20c9f88c418d5bb72de92cd607baded878dd279522abcd7c8da6c81e3b"
+    },
+    "install-anti-slop": {
+      "source": "dmmulroy/anti-slop",
+      "sourceType": "github",
+      "skillPath": "skills/install-anti-slop/SKILL.md",
+      "computedHash": "d92d8dbdf1bd96e11ee33945dca76306179a7c415e7339769084b2c211c6897c"
+    },
+    "liquid-glass-design": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/liquid-glass-design/SKILL.md",
+      "computedHash": "bbfb0a30ce18048f07072183d844b005ca729f27784096455ea7f8add25b92d3"
+    },
+    "shadcn": {
+      "source": "shadcn-ui/ui",
+      "sourceType": "github",
+      "skillPath": "skills/shadcn/SKILL.md",
+      "computedHash": "d04e43ec01e921558b93bb8046c14a42a22556689a2827243df900825a4e1604"
+    }
+  }
+}
